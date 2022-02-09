@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Data Scientist. In my daily work, I mix computer science, Machine Learning and Artificial Intelligence to create AI Solution. 
+I bieleve in augmented intelligence.  
