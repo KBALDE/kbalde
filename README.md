@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I am a Data Scientist. In my daily work, I mix computer science, Machine Learning and Artificial Intelligence to create AI Solutions. 
-I bieleve in augmented intelligence.  
+I believe in augmented intelligence.  
