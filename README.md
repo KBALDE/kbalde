@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Data Scientist. In my daily work, I mix computer science, Machine Learning and Artificial Intelligence to create AI Solution. 
+I am a Data Scientist. In my daily work, I mix computer science, Machine Learning and Artificial Intelligence to create AI Solutions. 
 I bieleve in augmented intelligence.  
