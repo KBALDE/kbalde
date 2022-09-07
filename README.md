@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Data Scientist. In my daily work, I mix computer science, Machine Learning and Artificial Intelligence to create AI Solutions. 
-I believe in augmented intelligence.  
+Hi!  My name is Kindi BALDE. I'm a Full Stack Data Scientist, AI Enthusiast, and Consultant based in Paris, France.
+
+From an Econometrics academic background, I worked my way up to Data Science by expanding my passion for data analysis. Through that process, I went from simple data analysis to advanced data engineering in distributed ecosystems like Hadoop and Spark, and now to Artificial Intelligence. 
+
+My area of interest is augmented intelligence and synthetic data. I believe in the continuous development of smart machines to help humans in their daily tasks. I am a little skeptical about AGI.  
+
+I work tirelessly to promote open and reproducible science, leading by example and openly publishing my work on GitHub and online blog platforms whenever I can. 
+
