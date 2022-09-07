@@ -21,5 +21,5 @@ From an Econometrics academic background, I worked my way up to Data Science by 
 
 My area of interest is augmented intelligence and synthetic data. I believe in the continuous development of smart machines to help humans in their daily tasks. I am a little skeptical about AGI.  
 
-I work tirelessly to promote open and reproducible science, leading by example and openly publishing my work on GitHub and online blog platforms whenever I can. 
+I work tirelessly to promote open and reproducible science, learning by doing and openly publishing my work on GitHub and online blog platforms whenever I can. 
 
