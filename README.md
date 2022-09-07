@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi!  My name is Kindi BALDE. I'm a Full Stack Data Scientist, AI Enthusiast, and Consultant based in Paris, France.
+My name is Kindi BALDE. I'm a Full Stack Data Scientist, AI Enthusiast, and Consultant based in Paris, France.
 
 From an Econometrics academic background, I worked my way up to Data Science by expanding my passion for data analysis. Through that process, I went from simple data analysis to advanced data engineering in distributed ecosystems like Hadoop and Spark, and now to Artificial Intelligence. 
 
