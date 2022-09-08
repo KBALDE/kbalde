@@ -25,4 +25,19 @@ I work tirelessly to promote open and reproducible science, learning by doing an
 
 ### Deployed and Studied Projects
 
-1 - [Credit Scoring](https://github.com/KBALDE/dataxhipai/tree/master/2-Credit_Scoring_Model)
+1 - [Art Generation With Neural Style Transfer](https://github.com/KBALDE/dataxhipai/tree/master/1-Art_Generation_With_NST)
+
+2 - [Credit Scoring](https://github.com/KBALDE/dataxhipai/tree/master/2-Credit_Scoring_Model)
+
+3 - [E-Commerce Customers Segmentation](https://github.com/KBALDE/dataxhipai/tree/master/3-E-Commerce_Segmentation)
+
+4 - [Image And Text Data Processing](https://github.com/KBALDE/dataxhipai/tree/master/4-Image_And_Text_Data_Processing)
+
+5 - [Sentiment Analysis for a flight company](https://github.com/KBALDE/dataxhipai/tree/master/5-Sentiment_Analysis_for_a_flight_company)
+
+6 - [Image Segmentation for a transportation company](https://github.com/KBALDE/dataxhipai/tree/master/6-Image_Segmentation_for_a_transportation_company)
+
+7 - [Recommendation System Application for a news company](https://github.com/KBALDE/dataxhipai/tree/master/7-Recommendation_System_Application_for_a_news_company)
+
+8 - [Chatbot Application for a tour operator](https://github.com/KBALDE/dataxhipai/tree/master/8-Chatbot_Application_for_a_tour_operator)
+
