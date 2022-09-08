@@ -23,3 +23,6 @@ My area of interest is augmented intelligence and synthetic data. I believe in t
 
 I work tirelessly to promote open and reproducible science, learning by doing and openly publishing my work on GitHub and online blog platforms whenever I can. 
 
+### Deployed and Studied Projects
+
+1 - [Credit Scoring](https://github.com/KBALDE/dataxhipai/tree/master/2-Credit_Scoring_Model)
